@@ -1,0 +1,7 @@
+C:\Users\JIexaSSD\source\repos\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\JIexaSSD\source\repos\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\JIexaSSD\source\repos\Snake\bin\Debug\Snake.exe.config
+C:\Users\JIexaSSD\source\repos\Snake\bin\Debug\Snake.exe
+C:\Users\JIexaSSD\source\repos\Snake\bin\Debug\Snake.pdb
+C:\Users\JIexaSSD\source\repos\Snake\obj\Debug\Snake.exe
+C:\Users\JIexaSSD\source\repos\Snake\obj\Debug\Snake.pdb
